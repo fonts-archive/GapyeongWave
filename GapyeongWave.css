@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Gapyeong Wave';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/GapyeongWave/GapyeongWave.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/GapyeongWave/GapyeongWave.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/GapyeongWave/GapyeongWave.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/GapyeongWave/GapyeongWave.ttf') format('truetype');
+}
